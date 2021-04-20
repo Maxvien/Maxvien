@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript)
 ![RESTful](https://img.shields.io/badge/-RESTful-141a20?style=flat&logo=swagger)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql)
-![NodeJS](https://img.shields.io/badge/-NodeJS-141a20?style=flat&logo=node-js)
+![NodeJS](https://img.shields.io/badge/-NodeJS-141a20?style=flat&logo=node-dot-js)
 
 
 
