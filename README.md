@@ -5,6 +5,7 @@
 ## 🛠 Tech Stack
 
 ![Shopify](https://img.shields.io/badge/-Shopify-141a20?style=flat&logo=shopify)
+![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=html5)
 ![LIQUID](https://img.shields.io/badge/-LIQUID-141a20?style=flat&logo=elixir)
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=css3)
@@ -13,9 +14,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript)
 ![RESTful](https://img.shields.io/badge/-RESTful-141a20?style=flat&logo=swagger)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql)
-![NodeJS](https://img.shields.io/badge/-NodeJS-141a20?style=flat&logo=node-dot-js)
-
-
 
 
 
