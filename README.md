@@ -10,6 +10,8 @@
 ![SASS](https://img.shields.io/badge/-SASS-141a20?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript)
+![RESTful](https://img.shields.io/badge/-RESTful-141a20?style=flat&logo=swagger)
+![GraphQL](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql)
 
 
 
