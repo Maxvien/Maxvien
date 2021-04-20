@@ -1,8 +1,4 @@
-# Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Maxvien&color=269077">
-
-
-
-## 🛠 Tech Stack
+# Shopify Developer 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Maxvien&color=269077">
 
 ![Shopify](https://img.shields.io/badge/-Shopify-333?style=flat&logo=shopify)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=React)
