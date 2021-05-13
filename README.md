@@ -8,11 +8,13 @@
 ![SASS](https://img.shields.io/badge/-SASS-555?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)
+![Jest](https://img.shields.io/badge/-Jest-555?style=flat&logo=jest)
 ![RESTful](https://img.shields.io/badge/-RESTful-555?style=flat&logo=swagger)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)
 ![macOS](https://img.shields.io/badge/-macOS-555?style=flat&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-555?style=flat&logo=windows)
+![Upwork](https://img.shields.io/badge/-Upwork-555?style=flat&logo=upwork)
 ![Stars](https://img.shields.io/github/stars/maxvien?label=Stars&logo=github)
 
 
