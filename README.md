@@ -11,6 +11,7 @@
 ![RESTful](https://img.shields.io/badge/-RESTful-555?style=flat&logo=swagger)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)
 ![Stars](https://img.shields.io/github/stars/maxvien?label=Stars&logo=github)
+![Operating Systems](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?color=007ec6&label=OS&logo=windows)
 
 
 
