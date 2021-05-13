@@ -12,6 +12,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)
 ![macOS](https://img.shields.io/badge/-macOS-555?style=flat&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-555?style=flat&logo=windows)
 ![Stars](https://img.shields.io/github/stars/maxvien?label=Stars&logo=github)
 
 
