@@ -10,8 +10,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)
 ![RESTful](https://img.shields.io/badge/-RESTful-555?style=flat&logo=swagger)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)
+![macOS](https://img.shields.io/badge/-macOS-555?style=flat&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=ubuntu)
 ![Stars](https://img.shields.io/github/stars/maxvien?label=Stars&logo=github)
-![Operating Systems](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?color=007ec6&label=OS&logo=windows)
 
 
 
