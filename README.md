@@ -1,15 +1,16 @@
-# Shopify Developer 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Maxvien&color=269077">
+# Shopify Developer 👋
 
-![Shopify](https://img.shields.io/badge/-Shopify-333?style=flat&logo=shopify)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=React)
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![LIQUID](https://img.shields.io/badge/-LIQUID-333?style=flat&logo=elixir)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-333?style=flat&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![RESTful](https://img.shields.io/badge/-RESTful-333?style=flat&logo=swagger)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=flat&logo=graphql)
+![Shopify](https://img.shields.io/badge/-Shopify-555?style=flat&logo=shopify)
+![React](https://img.shields.io/badge/-React-555?style=flat&logo=React)
+![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html5)
+![LIQUID](https://img.shields.io/badge/-LIQUID-555?style=flat&logo=elixir)
+![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-555?style=flat&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)
+![RESTful](https://img.shields.io/badge/-RESTful-555?style=flat&logo=swagger)
+![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)
+![Stars](https://img.shields.io/github/stars/maxvien?label=Stars&logo=github)
 
 
 
