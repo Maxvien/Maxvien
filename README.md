@@ -1,4 +1,4 @@
-# Shopify Online Store Developer 👋
+# Shopify Developer 👋
 
 [![Shopify](https://img.shields.io/badge/-Shopify-555?style=flat&logo=shopify)](https://github.com/maxvien)
 [![React](https://img.shields.io/badge/-React-555?style=flat&logo=React)](https://github.com/maxvien)
