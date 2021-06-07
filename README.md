@@ -13,7 +13,7 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)](https://github.com/maxvien)
 [![RESTful](https://img.shields.io/badge/-RESTful-555?style=flat&logo=swagger)](https://github.com/maxvien)
 [![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)](https://github.com/maxvien)
-[![Agile](https://img.shields.io/badge/-Agile-555?style=flat&logo=trello)](https://github.com/maxvien)
+[![Agile](https://img.shields.io/badge/-Agile-555?style=flat&logo=asana)](https://github.com/maxvien)
 [![Code](https://img.shields.io/badge/-Code-555?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA3QUNDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiLz48L3N2Zz4=)](https://github.com/maxvien)
 [![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=docker)](https://github.com/maxvien)
 [![macOS](https://img.shields.io/badge/-macOS-555?style=flat&logo=apple)](https://github.com/maxvien)
