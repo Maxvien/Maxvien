@@ -40,14 +40,14 @@
 
 ## Libraries
 
-- [Super Memo](https://github.com/Maxvien/supermemo): An Implementation of the SuperMemo 2 (SM2) algorithm.
-- [Cool Store](https://github.com/Maxvien/cool-store): An immutable state store built on top of ImmerJS and RxJS.
+- [SuperMemo](https://github.com/Maxvien/supermemo): An Implementation of the SuperMemo 2 (SM2) algorithm.
+- [CoolStore](https://github.com/Maxvien/cool-store): An immutable state store built on top of ImmerJS and RxJS.
 - [Apollo Modulizer](https://github.com/Maxvien/apollo-modulizer): A library for modularizing your Apollo GraphQL schema code.
 - [Fison](https://github.com/Maxvien/fison): Post/Upload JSON and Files in a Single Request.
 - [jQuery Helpers](https://github.com/Maxvien/jquery-helpers): A set of jQuery Helpers for front-end development.
-- [Env Kit](https://github.com/Maxvien/env-kit): An env kit for Node development.
-- [Json File](https://github.com/Maxvien/env-kit): Easily read/write JSON files in Deno.
-- [Use Mousetrap](https://github.com/Maxvien/use-mousetrap): A simple Mousetrap hook for handling keyboard shortcuts in React.
+- [EnvKit](https://github.com/Maxvien/env-kit): An env kit for Node development.
+- [JsonFile](https://github.com/Maxvien/env-kit): Easily read/write JSON files in Deno.
+- [UseMousetrap](https://github.com/Maxvien/use-mousetrap): A simple Mousetrap hook for handling keyboard shortcuts in React.
 - [Unisafe](https://github.com/Maxvien/unisafe): Remove invalid Unicode characters out of your string and JSON.
 - [Eslint Config Next App](https://github.com/Maxvien/eslint-config-next-app): ESLint configuration for Next.js
 
