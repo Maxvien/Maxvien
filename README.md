@@ -58,7 +58,7 @@
 - [Heroku CoreNLP](https://github.com/Maxvien/heroku-corenlp): Deploy CoreNLP on Heroku.
 - [DEMP Stack](https://github.com/Maxvien/demp): Docker + Nginx + MySQL + PHP.
 - [Drupal Docker](https://github.com/Maxvien/drupal-docker): Drupal development with Docker.
-- [Hackintosh Z5070](https://github.com/Maxvien/hackintosh-lenovo-z5070): Install Mac OS El Capitan 10.11.04 on Lenovo Z50-70.
+- [Hackintosh Z5070](https://github.com/Maxvien/hackintosh-lenovo-z5070): Install Mac OS El Capitan on Lenovo Z50-70.
 
 ## Examples
 
