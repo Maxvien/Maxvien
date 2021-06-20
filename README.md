@@ -46,7 +46,7 @@
 - [Fison](https://github.com/Maxvien/fison): Post/Upload JSON and Files in a Single Request.
 - [jQuery Helpers](https://github.com/Maxvien/jquery-helpers): A set of jQuery Helpers for front-end development.
 - [EnvKit](https://github.com/Maxvien/env-kit): An env kit for Node development.
-- [JsonFile](https://github.com/Maxvien/env-kit): Easily read/write JSON files in Deno.
+- [JsonFile](https://github.com/Maxvien/jsonfile): Easily read/write JSON files in Deno.
 - [UseMousetrap](https://github.com/Maxvien/use-mousetrap): A simple Mousetrap hook for handling keyboard shortcuts in React.
 - [Unisafe](https://github.com/Maxvien/unisafe): Remove invalid Unicode characters out of your string and JSON.
 - [Eslint Config Next App](https://github.com/Maxvien/eslint-config-next-app): ESLint configuration for Next.js
