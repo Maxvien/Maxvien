@@ -74,7 +74,7 @@
 - [Working with Supertest](https://github.com/Maxvien/working-with-supertest): Tesing Express API with Jest & Supertest.
 - [Next Ionic Core](https://github.com/Maxvien/next-ionic-core): Using IonicCore in NextJS with TypeScript support.
 - [Angular Examples](https://github.com/Maxvien/angular-examples): Learning Angular Examples.
-- [Javascript Examples](https://github.com/Maxvien/learning/branches/all): Learning Express, React, Node, ... Examples.
+- [Javascript Examples](https://github.com/Maxvien/learning/branches/all): Learning Express, MongoDB, React, Node, ... Examples.
 
 <!--
 **Maxvien/maxvien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
