@@ -37,6 +37,7 @@
 - [Next Shopify Storefront](https://github.com/Maxvien/next-shopify-storefront): A Shopify Storefront built with Next.js
 - [Next Full Stack](https://github.com/Maxvien/next-full-stack): Effective Full Stack Development with Next.js
 - [React PDF Reader](https://github.com/Maxvien/react-pdf-reader): Reader Zone Clone built with React.
+- [React Quote Generator](https://github.com/Maxvien/react-quote-generator): A Quote Image Generator built with Next.js
 
 ## Libraries
 
