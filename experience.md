@@ -4,7 +4,6 @@
 
 - [Next Shopify Storefront](https://github.com/Maxvien/next-shopify-storefront): A Shopify Storefront built with Next.js
 - [Bootstrap Shopify Theme](https://github.com/Maxvien/bootstrap-shopify-theme): A Shopify Theme built with Bootstrap.
-- [Shopify Theme Customizer](https://github.com/Maxvien/shopify-theme-customizer): A Shopify Theme Development Tool built with Gulp.
 - [Shopify Data Faker](https://github.com/Maxvien/shopify-data-faker): A Shopify Development Tool for generating dummy store data.
 
 ## React Projects
